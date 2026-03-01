@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Version 1.0.0
+
+CACHE:
+/
+/index.html
+/vite.svg
+/src/main.tsx
+/src/App.tsx
+/src/index.css
+
+NETWORK:
+*
+
+FALLBACK:
+/ /offline.html
+
+SETTINGS:
+prefer-online
